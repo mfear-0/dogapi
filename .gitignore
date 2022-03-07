@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+#ignore everything here:
+Lib
+src
+pyvenv.cfg
+Scripts/gamesapi/games/__pycache__/
+Scripts/gamesapi/games/migrations/
+Scripts/gamesapi/gamesapi/__pycache__/
+Scripts/gamesapi/gamesapi/migrations/
+Scripts/*.exe
+Scripts/*.bat
+Scripts/activate
+Scripts/activate.fish
+Scripts/*.py
+Scripts/*.nu
+Scripts/*.lock
+Scripts/*.ps1
